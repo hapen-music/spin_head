@@ -1,3 +1,7 @@
+
+----synapse olny
+-----web: x.synapse.to
+
 _G.settings = {
 	head_spin = true,
 	spin_per_sec = 1
